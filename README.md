@@ -250,7 +250,7 @@ epochs = range(len(acc))
 
 plt.plot(epochs, acc, 'r', label='Training accuracy')
 plt.plot(epochs, val_acc, 'b', label='Validation accuracy')
-plt.title('Name: Shubhavi M      Register Number: 212223040199    ')
+plt.title('Name: POOJA S      Register Number: 212223040146    ')
 plt.title('Training and validation accuracy')
 plt.legend(loc=0)
 plt.figure()
